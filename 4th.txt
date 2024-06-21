@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>文字+圖片練習</title>
+</head>
+<body style="background-color:#88dbba;">
+<h1 align = center> 期末實作測試 學號:91135134 姓名:張立文 </h1>
+<h2>鐵道文化介紹</h2>
+
+<table border="0px">
+  <tr> 
+    <td><img src="IMAGE2.jfif" width="400" height="300"></td>
+    <td><img src="IMAGE3.jpg" width="400" height="300"></td>
+    <td><img src="IMAGE4.jfif" width="400" height="300"></td>
+  </tr>
+  <tr>
+    <td align = center> <a href="index.html">原神</a> </td>
+    <td align = center> <a href="2nd.html">碧蘭航線</a> </td>
+    <td align = center> <a href="3rd.html">崩壞:星瓊鐵道</a> </td>
+  </tr>
+</table>
+
+<h2>明日方舟</h2>
+
+<h3>新手建議</h3>
+
+<ul>
+<li>謹慎使用遊戲資源</li>
+<li>幹員放置位置需再三思考</li>
+<li>思考配對組合</li>
+<li>抽卡時再三思考</li>
+<li>前期不用著急培育6星角色因為太貴</li>
+<li>善用模擬對戰</li>
+
+</ul>
+
+<hr>
+
+<h3>開發公司介紹</h3>
+
+<ol>
+<li>開發公司是「鷹角網絡有限公司」（Hypergryph）。這是一家中國的遊戲開發公司</li>
+<li>成立於2017年，總部位於上海</li>
+
+</ol>
+
+<img src="4th.jpg" width="400" height="300">
+
+<h3>評價</h3>
+
+首先這是一款互動性遊玩性極高的遊戲<br>
+在遊玩時你需要時刻思考幹員擺放位置,想辦法避免浪費任何一格<br>
+在技能釋放上時機異常重要,如果釋放不好不僅浪費而且傷害也不足<p>
+
+因此特別推薦給喜歡動腦思考的玩家<br>
+
+</body>
+</html>
